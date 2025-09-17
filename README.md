@@ -587,11 +587,11 @@ This application demonstrates **Java SE (Standard Edition)** capabilities:
 <h3 style="color: #d35400; font-family: 'Georgia', serif; margin-bottom: 20px;">👨‍💻 Developer Information</h3>
 
 <table style="margin: 0 auto; font-family: 'Segoe UI', sans-serif; border-collapse: collapse;">
-<tr><td style="padding: 8px; color: #2c3e50; font-weight: 600;">👤 <strong>Author</strong>:</td><td style="padding: 8px; color: #34495e;">Harshvardhan Singh Jaisawat</td></tr>
-<tr><td style="padding: 8px; color: #2c3e50; font-weight: 600;">🎓 <strong>Reg. No.</strong>:</td><td style="padding: 8px; color: #34495e;">24BCE11064</td></tr>
+<tr><td style="padding: 8px; color: #2c3e50; font-weight: 600;">👤 <strong>Author</strong>:</td><td style="padding: 8px; color: #34495e;">Soham Jain</td></tr>
+<tr><td style="padding: 8px; color: #2c3e50; font-weight: 600;">🎓 <strong>Reg. No.</strong>:</td><td style="padding: 8px; color: #34495e;">24BCE11321</td></tr>
 <tr><td style="padding: 8px; color: #2c3e50; font-weight: 600;">📚 <strong>Course</strong>:</td><td style="padding: 8px; color: #34495e;">Programming in Java</td></tr>
 <tr><td style="padding: 8px; color: #2c3e50; font-weight: 600;">🏛️ <strong>Institution</strong>:</td><td style="padding: 8px; color: #34495e;">Vellore Institute of Technology, Bhopal</td></tr>
-<tr><td style="padding: 8px; color: #2c3e50; font-weight: 600;">📅 <strong>Date</strong>:</td><td style="padding: 8px; color: #34495e;">15-09-2025</td></tr>
+<tr><td style="padding: 8px; color: #2c3e50; font-weight: 600;">📅 <strong>Date</strong>:</td><td style="padding: 8px; color: #34495e;">17-09-2025</td></tr>
 <tr><td style="padding: 8px; color: #2c3e50; font-weight: 600;">🔢 <strong>Version</strong>:</td><td style="padding: 8px; color: #34495e;">1.0</td></tr>
 </table>
 
